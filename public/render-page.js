@@ -4823,24 +4823,24 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!*******************************************************************************************************************!*\
-  !*** external "/home/hp/projects/blog/frontend-masters-intro-to-gatsby-project/node_modules/react-dom/server.js" ***!
-  \*******************************************************************************************************************/
+/*!**********************************************************************************!*\
+  !*** external "/home/hp/projects/bhaveek blog/node_modules/react-dom/server.js" ***!
+  \**********************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/hp/projects/blog/frontend-masters-intro-to-gatsby-project/node_modules/react-dom/server.js");
+module.exports = require("/home/hp/projects/bhaveek blog/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!**************************************************************************************************************!*\
-  !*** external "/home/hp/projects/blog/frontend-masters-intro-to-gatsby-project/node_modules/react/index.js" ***!
-  \**************************************************************************************************************/
+/*!*****************************************************************************!*\
+  !*** external "/home/hp/projects/bhaveek blog/node_modules/react/index.js" ***!
+  \*****************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/hp/projects/blog/frontend-masters-intro-to-gatsby-project/node_modules/react/index.js");
+module.exports = require("/home/hp/projects/bhaveek blog/node_modules/react/index.js");
 
 /***/ })
 

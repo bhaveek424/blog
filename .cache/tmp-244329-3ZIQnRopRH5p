@@ -1,0 +1,5 @@
+
+    const cmd = require("/home/hp/projects/bhaveek blog/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":39989,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/home/hp/projects/bhaveek blog","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"frontend-masters-intro-to-gatsby","version":"1.0.0","private":true,"description":"Frontend Masters Intro to Gatsby","author":"Jason Lengstorf","keywords":["gatsby"],"scripts":{"develop":"gatsby develop","start":"gatsby develop","build":"gatsby build","serve":"gatsby serve","clean":"gatsby clean"},"dependencies":{"gatsby":"^3.11.1","react":"^17.0.2","react-dom":"^17.0.2"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
